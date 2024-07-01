@@ -2,146 +2,361 @@
     {
         "country": "EU",
         "value": "3,4",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Estonia",
         "value": "10,6",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Latvia",
         "value": "8,9",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Ireland",
         "value": "6,8",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Lithuania (¹)(²)",
         "value": "6,6",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Denmark",
         "value": "6,3",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "France",
         "value": "5,6",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Czechia",
         "value": "4,6",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Belgium",
         "value": "4,3",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Cyprus (²)",
         "value": "3,4",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Portugal",
         "value": "3,4",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Germany",
         "value": "3,4",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Spain",
         "value": "3,0",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Poland",
         "value": "2,9",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Malta",
         "value": "2,8",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Finland",
         "value": "2,8",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Netherlands",
         "value": "2,7",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Hungary (¹)(²)",
         "value": "2,6",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Austria",
         "value": "2,5",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Bulgaria",
         "value": "2,5",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Italy",
         "value": "2,5",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Romania",
         "value": "2,4",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Luxembourg",
         "value": "2,4",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Sweden",
         "value": "2,0",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Slovakia",
         "value": "1,7",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Greece (¹)",
         "value": "1,3",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Slovenia (³)",
         "value": "1,2",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Croatia (¹)(²)",
         "value": "1,0",
-        "group": "native "
+        "group": "native"
     },
     {
         "country": "Norway (²)",
         "value": "4,1",
-        "group": "native "
+        "group": "native"
+    },
+    {
+        "country": "EU",
+        "value": "8,4",
+        "group": "foreign-parent"
+    },
+    {
+        "country": "Estonia",
+        "value": "16,0",
+        "group": "foreign-parent"
+    },
+    {
+        "country": "Latvia",
+        "value": "12,9",
+        "group": "foreign-parent"
+    },
+    {
+        "country": "Lithuania (¹)(²)",
+        "value": "9,5",
+        "group": "foreign-parent"
+    },
+    {
+        "country": "Denmark",
+        "value": "8,3",
+        "group": "foreign-parent"
+    },
+    {
+        "country": "France",
+        "value": "13,8",
+        "group": "foreign-parent"
+    },
+    {
+        "country": "Czechia",
+        "value": "12,2",
+        "group": "foreign-parent"
+    },
+    {
+        "country": "Belgium",
+        "value": "10,5",
+        "group": "foreign-parent"
+    },
+    {
+        "country": "Cyprus (²)",
+        "value": "17,5",
+        "group": "foreign-parent"
+    },
+    {
+        "country": "Portugal",
+        "value": "16,9",
+        "group": "foreign-parent"
+    },
+    {
+        "country": "Germany",
+        "value": "4,7",
+        "group": "foreign-parent"
+    },
+    {
+        "country": "Spain",
+        "value": "11,2",
+        "group": "foreign-parent"
+    },
+    {
+        "country": "Netherlands",
+        "value": "6,4",
+        "group": "foreign-parent"
+    },
+    {
+        "country": "Hungary (¹)(²)",
+        "value": "11,2",
+        "group": "foreign-parent"
+    },
+    {
+        "country": "Austria",
+        "value": "4,8",
+        "group": "foreign-parent"
+    },
+    {
+        "country": "Italy",
+        "value": "9,3",
+        "group": "foreign-parent"
+    },
+    {
+        "country": "Luxembourg",
+        "value": "6,6",
+        "group": "foreign-parent"
+    },
+    {
+        "country": "Sweden",
+        "value": "3,6",
+        "group": "foreign-parent"
+    },
+    {
+        "country": "Croatia (¹)(²)",
+        "value": "4,2",
+        "group": "foreign-parent"
+    },
+    {
+        "country": "Norway (²)",
+        "value": "6,8",
+        "group": "foreign-parent"
+    },
+    {
+        "country": "EU",
+        "value": "5,8",
+        "group": "foreign"
+    },
+    {
+        "country": "Estonia",
+        "value": "5,6",
+        "group": "foreign"
+    },
+    {
+        "country": "Latvia",
+        "value": "6,0",
+        "group": "foreign"
+    },
+    {
+        "country": "Ireland",
+        "value": "10,8",
+        "group": "foreign"
+    },
+    {
+        "country": "Lithuania (¹)(²)",
+        "value": "5,1",
+        "group": "foreign"
+    },
+    {
+        "country": "Denmark",
+        "value": "8,9",
+        "group": "foreign"
+    },
+    {
+        "country": "France",
+        "value": "8,0",
+        "group": "foreign"
+    },
+    {
+        "country": "Czechia",
+        "value": "6,3",
+        "group": "foreign"
+    },
+    {
+        "country": "Belgium",
+        "value": "9,6",
+        "group": "foreign"
+    },
+    {
+        "country": "Cyprus (²)",
+        "value": "6,0",
+        "group": "foreign"
+    },
+    {
+        "country": "Portugal",
+        "value": "11,6",
+        "group": "foreign"
+    },
+    {
+        "country": "Germany",
+        "value": "5,3",
+        "group": "foreign"
+    },
+    {
+        "country": "Spain",
+        "value": "4,7",
+        "group": "foreign"
+    },
+    {
+        "country": "Finland",
+        "value": "6,6",
+        "group": "foreign"
+    },
+    {
+        "country": "Netherlands",
+        "value": "6,5",
+        "group": "foreign"
+    },
+    {
+        "country": "Hungary (¹)(²)",
+        "value": "3,6",
+        "group": "foreign"
+    },
+    {
+        "country": "Austria",
+        "value": "3,8",
+        "group": "foreign"
+    },
+    {
+        "country": "Italy",
+        "value": "3,9",
+        "group": "foreign"
+    },
+    {
+        "country": "Luxembourg",
+        "value": "2,9",
+        "group": "foreign"
+    },
+    {
+        "country": "Sweden",
+        "value": "4,2",
+        "group": "foreign"
+    },
+    {
+        "country": "Greece (¹)",
+        "value": "2,5",
+        "group": "foreign"
+    },
+    {
+        "country": "Croatia (¹)(²)",
+        "value": "3,5",
+        "group": "foreign"
+    },
+    {
+        "country": "Norway (²)",
+        "value": "9,4",
+        "group": "foreign"
     }
 ]
