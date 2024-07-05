@@ -1,0 +1,407 @@
+[
+    {
+        "country": "EU",
+        "age": 78.3,
+        "year": "2004"
+    },
+    {
+        "country": "BE",
+        "age": 79.0,
+        "year": "2004"
+    },
+    {
+        "country": "BG",
+        "age": 72.5,
+        "year": "2004"
+    },
+    {
+        "country": "CZ",
+        "age": 75.9,
+        "year": "2004"
+    },
+    {
+        "country": "DK",
+        "age": 77.8,
+        "year": "2004"
+    },
+    {
+        "country": "DE",
+        "age": 79.3,
+        "year": "2004"
+    },
+    {
+        "country": "EE",
+        "age": 72.4,
+        "year": "2004"
+    },
+    {
+        "country": "EL",
+        "age": 79.4,
+        "year": "2004"
+    },
+    {
+        "country": "ES",
+        "age": 80.4,
+        "year": "2004"
+    },
+    {
+        "country": "FR",
+        "age": 80.3,
+        "year": "2004"
+    },
+    {
+        "country": "HR",
+        "age": 75.4,
+        "year": "2004"
+    },
+    {
+        "country": "IT",
+        "age": 80.9,
+        "year": "2004"
+    },
+    {
+        "country": "CY",
+        "age": 79.1,
+        "year": "2004"
+    },
+    {
+        "country": "LV",
+        "age": 70.9,
+        "year": "2004"
+    },
+    {
+        "country": "LT",
+        "age": 72.0,
+        "year": "2004"
+    },
+    {
+        "country": "LU",
+        "age": 79.2,
+        "year": "2004"
+    },
+    {
+        "country": "HU",
+        "age": 73.0,
+        "year": "2004"
+    },
+    {
+        "country": "MT",
+        "age": 79.4,
+        "year": "2004"
+    },
+    {
+        "country": "NL",
+        "age": 79.3,
+        "year": "2004"
+    },
+    {
+        "country": "AT",
+        "age": 79.3,
+        "year": "2004"
+    },
+    {
+        "country": "PL",
+        "age": 74.9,
+        "year": "2004"
+    },
+    {
+        "country": "PT",
+        "age": 78.4,
+        "year": "2004"
+    },
+    {
+        "country": "RO",
+        "age": 71.4,
+        "year": "2004"
+    },
+    {
+        "country": "SI",
+        "age": 77.2,
+        "year": "2004"
+    },
+    {
+        "country": "SK",
+        "age": 74.2,
+        "year": "2004"
+    },
+    {
+        "country": "FI",
+        "age": 79.0,
+        "year": "2004"
+    },
+    {
+        "country": "SE",
+        "age": 80.7,
+        "year": "2004"
+    },
+    {
+        "country": "EU",
+        "age": 80.8,
+        "year": "2014"
+    },
+    {
+        "country": "BE",
+        "age": 81.4,
+        "year": "2014"
+    },
+    {
+        "country": "BG",
+        "age": 74.5,
+        "year": "2014"
+    },
+    {
+        "country": "CZ",
+        "age": 78.9,
+        "year": "2014"
+    },
+    {
+        "country": "DK",
+        "age": 80.7,
+        "year": "2014"
+    },
+    {
+        "country": "DE",
+        "age": 81.2,
+        "year": "2014"
+    },
+    {
+        "country": "EE",
+        "age": 77.4,
+        "year": "2014"
+    },
+    {
+        "country": "EL",
+        "age": 81.5,
+        "year": "2014"
+    },
+    {
+        "country": "ES",
+        "age": 83.3,
+        "year": "2014"
+    },
+    {
+        "country": "FR",
+        "age": 82.9,
+        "year": "2014"
+    },
+    {
+        "country": "HR",
+        "age": 77.9,
+        "year": "2014"
+    },
+    {
+        "country": "IT",
+        "age": 83.2,
+        "year": "2014"
+    },
+    {
+        "country": "CY",
+        "age": 82.3,
+        "year": "2014"
+    },
+    {
+        "country": "LV",
+        "age": 74.5,
+        "year": "2014"
+    },
+    {
+        "country": "LT",
+        "age": 74.7,
+        "year": "2014"
+    },
+    {
+        "country": "LU",
+        "age": 82.3,
+        "year": "2014"
+    },
+    {
+        "country": "HU",
+        "age": 76.0,
+        "year": "2014"
+    },
+    {
+        "country": "MT",
+        "age": 82.1,
+        "year": "2014"
+    },
+    {
+        "country": "NL",
+        "age": 81.8,
+        "year": "2014"
+    },
+    {
+        "country": "AT",
+        "age": 81.6,
+        "year": "2014"
+    },
+    {
+        "country": "PL",
+        "age": 77.8,
+        "year": "2014"
+    },
+    {
+        "country": "PT",
+        "age": 81.3,
+        "year": "2014"
+    },
+    {
+        "country": "RO",
+        "age": 75.0,
+        "year": "2014"
+    },
+    {
+        "country": "SI",
+        "age": 81.2,
+        "year": "2014"
+    },
+    {
+        "country": "SK",
+        "age": 77.0,
+        "year": "2014"
+    },
+    {
+        "country": "FI",
+        "age": 81.3,
+        "year": "2014"
+    },
+    {
+        "country": "SE",
+        "age": 82.3,
+        "year": "2014"
+    },
+    {
+        "country": "EU",
+        "age": 81.5,
+        "year": "2024"
+    },
+    {
+        "country": "BE",
+        "age": 82.5,
+        "year": "2024"
+    },
+    {
+        "country": "BG",
+        "age": 75.8,
+        "year": "2024"
+    },
+    {
+        "country": "CZ",
+        "age": 80.0,
+        "year": "2024"
+    },
+    {
+        "country": "DK",
+        "age": 81.9,
+        "year": "2024"
+    },
+    {
+        "country": "DE",
+        "age": 81.2,
+        "year": "2024"
+    },
+    {
+        "country": "EE",
+        "age": 78.8,
+        "year": "2024"
+    },
+    {
+        "country": "EL",
+        "age": 81.6,
+        "year": "2024"
+    },
+    {
+        "country": "ES",
+        "age": 84.0,
+        "year": "2024"
+    },
+    {
+        "country": "FR",
+        "age": 83.1,
+        "year": "2024"
+    },
+    {
+        "country": "HR",
+        "age": 78.6,
+        "year": "2024"
+    },
+    {
+        "country": "IT",
+        "age": 83.8,
+        "year": "2024"
+    },
+    {
+        "country": "CY",
+        "age": 82.5,
+        "year": "2024"
+    },
+    {
+        "country": "LV",
+        "age": 75.9,
+        "year": "2024"
+    },
+    {
+        "country": "LT",
+        "age": 77.3,
+        "year": "2024"
+    },
+    {
+        "country": "LU",
+        "age": 83.4,
+        "year": "2024"
+    },
+    {
+        "country": "HU",
+        "age": 76.9,
+        "year": "2024"
+    },
+    {
+        "country": "MT",
+        "age": 83.6,
+        "year": "2024"
+    },
+    {
+        "country": "NL",
+        "age": 82.0,
+        "year": "2024"
+    },
+    {
+        "country": "AT",
+        "age": 81.6,
+        "year": "2024"
+    },
+    {
+        "country": "PL",
+        "age": 78.6,
+        "year": "2024"
+    },
+    {
+        "country": "PT",
+        "age": 82.4,
+        "year": "2024"
+    },
+    {
+        "country": "RO",
+        "age": 76.6,
+        "year": "2024"
+    },
+    {
+        "country": "SI",
+        "age": 82.0,
+        "year": "2024"
+    },
+    {
+        "country": "SK",
+        "age": 78.1,
+        "year": "2024"
+    },
+    {
+        "country": "FI",
+        "age": 81.7,
+        "year": "2024"
+    },
+    {
+        "country": "SE",
+        "age": 83.4,
+        "year": "2024"
+    }
+]
